@@ -11,6 +11,7 @@ Thomas Basham - [GitHub Profile](https://github.com/Thomas-Basham)
 ## Features
 
 - Profile heading
+- Favorite Foods
 - Short bio
 - List of hobbies
 - A link to your favorite site
